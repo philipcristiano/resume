@@ -1,6 +1,7 @@
 # Philip Cristiano
 
 resume@philipcristiano.com
+
 http://philipcristiano.com
 
 610-457-6208
@@ -15,6 +16,7 @@ Philadelphia, PA
     * Experience with: C, C++, Objective C, Lua, Java, Ruby
     * Databases: MongoDB, Riak, Disco Map/Reduce, Cassandra, SQL
     * Configuration: Puppet, Chef
+    * Editor: VIM
 
 ## Experience
 
@@ -47,6 +49,7 @@ Philadelphia, PA
     * Implemented an EDI reporting tool to monitor daily procedures
     * Developed production Electronic Data Interchange (EDI) maps and envelopes
     * Supported SAP warehouse system
+
 
 ## Education
 
