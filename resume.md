@@ -1,9 +1,10 @@
 # Philip Cristiano
-resume@philipcristiano.com
 
+resume@philipcristiano.com
 http://philipcristiano.com
 
 610-457-6208
+
 24 S. Bank Street APT 302
 Philadelphia, PA
 19106
@@ -11,8 +12,9 @@ Philadelphia, PA
 ## Technologies
 
     * Primary Language: Python
-    * Experience with: C, C++, Objective C, Lua, Java
-    * Databases: SQL, MongoDB, Riak, Disco Map/Reduce
+    * Experience with: C, C++, Objective C, Lua, Java, Ruby
+    * Databases: MongoDB, Riak, Disco Map/Reduce, Cassandra, SQL
+    * Configuration: Puppet, Chef
 
 ## Experience
 
@@ -20,9 +22,10 @@ Philadelphia, PA
     AWeber Communications, Inc.
     June 2010 - Present
 
-    * Developed image hosting service with Riak
+    * Developed image hosting service with Riak/Varnish
     * Created map/reduce tools for Apache log analysis
     * Created asynchronus/redundant architecture with MongoDB
+    * Automated integration/deployment of REST services
 
 
 ### Plugin Developer
