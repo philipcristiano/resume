@@ -24,6 +24,7 @@ Philadelphia, PA
     AWeber Communications, Inc.
     June 2010 - Present
 
+    * Created a Heroku inspired platform for application deployment
     * Developed image hosting service with Riak/Varnish
     * Created map/reduce tools for Apache log analysis
     * Created asynchronus/redundant architecture with MongoDB
@@ -34,12 +35,12 @@ Philadelphia, PA
     Songkick.com
     February 2008 - September 2009
 
-    * Promoted from Intern to Contract Developer
-    * Developed remotely and 6 months in London on site
+    * Developed remotely and then 6 months in London on site
     * Maintained media player plugins in C/C++/Objective-C
     * Developed cross-platform GUIs to upload plugin data
-    * Designed and implemented OAuth API for Ruby on Rails server
-    * Developed user story case example
+    * Designed and implemented OAuth API with Ruby on Rails
+    * Developed user story case examples in Cucumber
+    * Promoted from Intern to Contract Developer
 
 
 ### Tech Analyst
