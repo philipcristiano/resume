@@ -55,5 +55,6 @@ June 2006 - March 2007
 
 ### Drexel University
 June, 2010
+
 * B.S. in Computer Science
 * Focus on Human Computer Interaction and Operating Systems/Networking
