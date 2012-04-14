@@ -20,7 +20,7 @@ Philadelphia, PA
 
 ## Experience
 
-### Web Developer
+### Software Engineer
 AWeber Communications, Inc.
 June 2010 - Present
 
