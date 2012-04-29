@@ -50,6 +50,10 @@ June 2006 - March 2007
 * Developed production Electronic Data Interchange (EDI) maps and envelopes
 * Supported SAP warehouse system
 
+## Talks
+
+### Kanban-What? One Company's Project Management Journey
+4/24/2012 - Philly Tech Week
 
 ## Education
 
