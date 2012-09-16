@@ -20,6 +20,12 @@ Philadelphia, PA
 
 ## Experience
 
+### Web Engineer
+SeatGeek.com
+September 2012 - Present
+
+* Python / Testing, I just started.
+
 ### Software Engineer
 AWeber Communications, Inc.
 June 2010 - Present
