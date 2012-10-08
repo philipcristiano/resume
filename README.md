@@ -6,9 +6,8 @@ http://philipcristiano.com
 
 610-457-6208
 
-24 S. Bank Street APT 302
-Philadelphia, PA
-19106
+251 Lexington Ave. APT 10
+New York, NY 10016
 
 ## Technologies
 
