@@ -32,7 +32,7 @@ June 2010 - Present
 * Created a Heroku inspired platform for application deployment
 * Developed image hosting service with Riak/Varnish
 * Created map/reduce tools for Apache log analysis
-* Created asynchronus/redundant architecture with MongoDB
+* Created asynchronous/redundant architecture with MongoDB
 * Automated integration/deployment of REST services
 
 
