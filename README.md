@@ -23,7 +23,9 @@ New York, NY 10016
 SeatGeek.com
 September 2012 - Present
 
-* Python / Testing, I just started.
+* Reduced new server setup from 3 hours to 30 minutes
+* Set up zero-downtime deployment of services
+* Created consistent application monitoring/ log shipping
 
 ### Software Engineer
 AWeber Communications, Inc.
