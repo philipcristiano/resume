@@ -27,7 +27,7 @@ September 2012 - Present
 
 ### Software Engineer
 AWeber Communications, Inc.
-June 2010 - Present
+June 2010 - August 2012
 
 * Created a Heroku inspired platform for application deployment
 * Developed image hosting service with Riak/Varnish
