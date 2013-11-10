@@ -19,13 +19,20 @@ New York, NY 10016
 
 ## Experience
 
+### Backend Infrastructure Engineer
+Spotify.com
+October 2013 - Present
+
+* Building infrastructure to help speed up development
+
 ### Web Engineer
 SeatGeek.com
-September 2012 - Present
+September 2012 - October 2013
 
 * Reduced new server setup from 3 hours to 30 minutes
 * Set up zero-downtime deployment of services
 * Created consistent application monitoring/ log shipping
+* Maintained/scaled infrastructure on AWS
 
 ### Software Engineer
 AWeber Communications, Inc.
