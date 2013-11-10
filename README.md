@@ -1,13 +1,7 @@
 # Philip Cristiano
 
-resume@philipcristiano.com
-
-http://philipcristiano.com
-
-610-457-6208
-
-251 Lexington Ave. APT 10
-New York, NY 10016
+If you would like to contact me please make a pull request adding a new file to
+this repository that contains your message and contact information.
 
 ## Technologies
 
