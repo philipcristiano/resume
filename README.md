@@ -7,8 +7,8 @@ this repository that contains your message and contact information.
 
 * Primary Language: Python
 * Experience with: C, C++, Objective C, Lua, Java, Ruby
-* Databases: MongoDB, Riak, Disco Map/Reduce, Cassandra, SQL
-* Configuration: Puppet, Chef
+* Databases: MongoDB, Riak, Disco Map/Reduce, Cassandra, SQL Variants
+* Configuration: Puppet, Chef, Ansible
 * Editor: VIM
 
 ## Experience
@@ -17,7 +17,12 @@ this repository that contains your message and contact information.
 Spotify.com
 October 2013 - Present
 
-* Building infrastructure to help speed up development
+* Part of the Incident Manager on Call rotation for handling severe incidents
+* Designed and built a cloud and physical host provisioning abstraction to
+  reduce engineer time for migrating to Google Cloud Platform
+* Designed and build a physical server cluster management system to reduce
+  engineer time spent managing single servers.
+
 
 ### Web Engineer
 SeatGeek.com
