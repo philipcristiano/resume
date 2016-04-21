@@ -1,8 +1,5 @@
 # Philip Cristiano
 
-If you would like to contact me please make a pull request adding a new file to
-this repository that contains your message and contact information.
-
 ## Technologies
 
 * Primary Language: Python
