@@ -4,7 +4,7 @@
 
 * Primary Language: Python
 * Experience with: C, C++, Objective C, Lua, Java, Ruby
-* Databases: MongoDB, Riak, Disco Map/Reduce, Cassandra, SQL Variants
+* Databases: MongoDB, Riak, Cassandra, SQL Variants
 * Configuration: Puppet, Chef, Ansible
 * Editor: VIM
 
