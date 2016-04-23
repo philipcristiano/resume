@@ -17,7 +17,7 @@ October 2013 - Present
 * Part of the Incident Manager on Call rotation for handling severe incidents
 * Designed and built a cloud and physical host provisioning abstraction to
   reduce engineer time for migrating to Google Cloud Platform
-* Designed and build a physical server cluster management system to reduce
+* Designed and built a physical server cluster management system to reduce
   engineer time spent managing single servers.
 
 
