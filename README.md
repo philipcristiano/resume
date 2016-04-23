@@ -62,6 +62,9 @@ June 2006 - March 2007
 
 ## Talks
 
+### Monitoring for 100+ Engineers
+6/28/2015 - Monitorama 2015
+
 ### Kanban-What? One Company's Project Management Journey
 4/24/2012 - Philly Tech Week
 
