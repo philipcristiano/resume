@@ -12,7 +12,7 @@
 
 ### Backend Infrastructure Engineer
 Spotify.com
-October 2013 - Present
+October 2013 - July 2016
 
 * Part of the Incident Manager on Call rotation for handling severe incidents
 * Designed and built a cloud and physical host provisioning abstraction to
