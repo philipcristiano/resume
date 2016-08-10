@@ -3,7 +3,7 @@
 ## Technologies
 
 * Primary Language: Python
-* Experience with: Erlang, Shell, Java, Lua, C Variants, Lua
+* Experience with: Erlang, Shell, Java, Lua, C Variants
 * Databases: MongoDB, Riak, Cassandra, Redis, SQL Variants
 * Configuration: Puppet, Chef, Ansible
 * Editor: VIM
