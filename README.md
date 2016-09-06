@@ -3,8 +3,8 @@
 ## Technologies
 
 * Primary Language: Python
-* Experience with: C, C++, Objective C, Lua, Java, Ruby
-* Databases: MongoDB, Riak, Cassandra, SQL Variants
+* Experience with: Erlang, Shell, Java, Lua, C Variants
+* Databases: MongoDB, Riak, Cassandra, Redis, SQL Variants
 * Configuration: Puppet, Chef, Ansible
 * Editor: VIM
 
@@ -12,7 +12,7 @@
 
 ### Backend Infrastructure Engineer
 Spotify.com
-October 2013 - Present
+October 2013 - July 2016
 
 * Part of the Incident Manager on Call rotation for handling severe incidents
 * Designed and built a cloud and physical host provisioning abstraction to
