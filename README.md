@@ -10,6 +10,15 @@
 
 ## Experience
 
+### Site Reliability Engineering Architect
+ReactiveOps.com
+Octoer 2016 - Present
+
+* Onboard new clients to the Devops-as-a-Service platform
+* Build new Kubernetes clusters
+* Containerize and deploy existing applications to Kubernetes
+* Migrate manually created infrastructure to automated AWS VPCs
+
 ### Backend Infrastructure Engineer
 Spotify.com
 October 2013 - July 2016
