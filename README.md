@@ -1,5 +1,7 @@
 # Philip Cristiano
 
+Philadelphia, PA
+
 ## Technologies
 
 * Primary Language: Python
