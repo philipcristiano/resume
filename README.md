@@ -14,7 +14,7 @@ Philadelphia, PA
 
 ### Site Reliability Engineering Architect
 ReactiveOps.com
-Octoer 2016 - Present
+October 2016 - Present
 
 * Onboard new clients to the Devops-as-a-Service platform
 * Build new Kubernetes clusters
