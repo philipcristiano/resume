@@ -12,9 +12,17 @@ Philadelphia, PA
 
 ## Experience
 
+### Senior Operations Engineer
+Mozilla
+January 2018 - Present
+
+* Improving reliability of existing services
+* Infrastructure design of new services
+* Assist developers with deployments of services
+
 ### Site Reliability Engineering Architect
 ReactiveOps.com
-October 2016 - Present
+October 2016 - December 2018
 
 * Onboard new clients to the Devops-as-a-Service platform
 * Build new Kubernetes clusters
