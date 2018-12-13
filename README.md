@@ -12,9 +12,16 @@ Philadelphia, PA
 
 ## Experience
 
+### Senior Production Engineer
+Packet.com
+July 2018 - Present
+
+* Building and maintaining service orchestration and deployment system
+* Prioritizing and scheduling projects
+
 ### Senior Operations Engineer
 Mozilla
-January 2018 - Present
+January 2018 - June 2018
 
 * Improving reliability of existing services
 * Infrastructure design of new services
