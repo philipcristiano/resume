@@ -13,11 +13,13 @@ Philadelphia, PA
 ## Experience
 
 ### Senior Production Engineer
-Packet.com
+Packet.net
 July 2018 - Present
 
-* Building and maintaining service orchestration and deployment system
-* Prioritizing and scheduling projects
+* Improve and maintain Nomad/Vault/Consul cluster
+* Automating CI/CD workflows to achieve merge -> Production in < 10 minutes
+* Build tooling to support deployment workflows
+* Part of 24/7 on call rotation
 
 ### Senior Operations Engineer
 Mozilla
