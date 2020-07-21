@@ -2,19 +2,19 @@
 
 Philadelphia, PA
 
-## Technologies
-
-* Primary Language: Python
-* Experience with: Erlang, Shell, Java, Lua, C Variants
-* Databases: MongoDB, Riak, Cassandra, Redis, SQL Variants
-* Configuration: Puppet, Chef, Ansible
-* Editor: VIM
-
 ## Experience
+
+### Co-founder / Chief Technology Officer
+GetKimball.com
+March 2020 - Present
+
+### Senior Engineer
+Spotify.com
+July 2019 - March 2020
 
 ### Senior Production Engineer
 Packet.net
-July 2018 - Present
+July 2018 - June 2019
 
 * Improve and maintain Nomad/Vault/Consul cluster
 * Automating CI/CD workflows to achieve merge -> Production in < 10 minutes
